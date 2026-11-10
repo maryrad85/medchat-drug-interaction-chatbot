@@ -1,0 +1,8 @@
+.env
+*.db
+*.joblib
+medchat_llm_outputs/*.json
+.ipynb_checkpoints/
+__pycache__/
+~$*
+
